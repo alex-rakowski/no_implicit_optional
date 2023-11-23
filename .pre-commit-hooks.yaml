@@ -1,6 +1,6 @@
 -   id: no_implicit_optional_checker
     name: no implicit optional checker
-    description: remove implicit optional args.
+    description: remove implicit optional types
     entry: no_implicit_optional
     language: python
     types: [python]
